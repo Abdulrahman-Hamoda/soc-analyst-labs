@@ -1,3 +1,5 @@
+
+
 \# Windows Authentication Investigation Report
 
 
@@ -6,7 +8,9 @@ This folder contains the investigation report for a Windows authentication secur
 
 
 
-Investigation Scope:
+\## Investigation Scope
+
+
 
 \- Windows Security Event Logs
 
@@ -22,11 +26,17 @@ Investigation Scope:
 
 
 
+\## Report Contents
+
+
+
 The report documents the collected evidence, analysis process, investigation findings, final verdict, and recommended follow-up actions.
 
 
 
-Key Topics:
+\## Key Topics
+
+
 
 \- Failed authentication attempts
 
@@ -37,4 +47,6 @@ Key Topics:
 \- Event log analysis
 
 \- Security investigation methodology
+
+
 

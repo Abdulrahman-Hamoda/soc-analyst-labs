@@ -1,3 +1,5 @@
+
+
 \# Investigation Screenshots
 
 
@@ -6,7 +8,9 @@ This folder contains screenshots collected during the Windows Authentication Inv
 
 
 
-Included Evidence:
+\## Included Evidence
+
+
 
 \- Windows Event Viewer logs
 
@@ -27,4 +31,6 @@ Included Evidence:
 
 
 The screenshots provide supporting evidence for the findings and conclusions documented in the investigation report.
+
+
 
