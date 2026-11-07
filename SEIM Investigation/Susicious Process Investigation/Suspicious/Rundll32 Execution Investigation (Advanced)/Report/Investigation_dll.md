@@ -36,11 +36,11 @@ The execution of `rundll32.exe` involved the following DLL:
 | `explorer.exe` | `cmd.exe` | 21:47:31.995 | Not specified |
 | `cmd.exe` | `rundll32.exe` | 21:48:44.109 | `rundll32.exe C:\Users\abdo\Downloads\svc_update.dll,0` |
 | `rundll32.exe` | `cmd.exe` | 21:52:24.192 | `cmd.exe` |
+| `cmd.exe` | `whoami.exe` | 21:52:56:547 | `whoami /all` |
 | `cmd.exe` | `ipconfig.exe` | 21:53:40.905 | `ipconfig /all` |
 | `cmd.exe` | `tasklist.exe` | 21:53:55.222 | `tasklist` |
 | `cmd.exe` | `net.exe` | 21:54:37.624 | `net user` |
 | `cmd.exe` | `net.exe` | 21:55:12.175 | `net localgroup Administrators` |
-| `cmd.exe` | `whoami.exe` | 21:56:547 | `whoami /all` |
 
 ## Analysis
 
